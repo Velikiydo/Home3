@@ -1,8 +1,9 @@
 package home3;
 
 /**
- *  Created by Velikiy Dmitriy
+ * Created by Velikiy Dmitriy
  */
+
 import java.util.Scanner;
 
 
@@ -36,5 +37,8 @@ public class Calculat {
         }
         /* Ответ*/
         System.out.printf("Результат равен=%.4f", result);
+        System.out.println();
+
     }
+
 }
